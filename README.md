@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs, VueJs, NuxtJs and NextJs**
 
-- 📫 How to reach me **satya6608@gmail.com**
+- 📫 How to reach me **satyaprakash6608@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/bnv23](https://shorturl.at/bnv23)
 <hr>
