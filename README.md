@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
 <h3 align="center">A passionate MERN and MEVN developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satya6608" alt="satya6608" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya6608&label=Profile%20views&color=0e75b6&style=flat" alt="satya6608" /> </p>
 
 <p align="left"> <a href="https://twitter.com/satya6608" target="blank"><img src="https://img.shields.io/twitter/follow/satya6608?logo=twitter&style=for-the-badge" alt="satya6608" /></a> </p>
 
