@@ -30,8 +30,8 @@
 <a href="https://react.dev/" target="blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/></a>
 <a href="https://nuxt.com/" target="blank"><img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-green?style=flat-square&logo=nuxtjs" height="25px"/></a>
 <a href="https://mongodb.com" target="blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/></a>
-<a href="nodejs.org" target="blank"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/></a>
-<a href="npmjs.com" target="blank"><img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/></a>
+<a href="https://nodejs.org" target="blank"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/></a>
+<a href="https://npmjs.com" target="blank"><img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/></a>
 <a href="https://redux.js.org/" target="blank"><img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/></a>
  <a href="https://expressjs.com/" target="blank"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/></a>
 <a href="https://getbootstrap.com" target="blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/></a>
