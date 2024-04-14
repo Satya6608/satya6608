@@ -48,6 +48,6 @@
 </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Satya6608&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="satya6608" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satya6608&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="satya6608" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Satya6608&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="satya6608" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satya6608&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="satya6608" /></p>
 
