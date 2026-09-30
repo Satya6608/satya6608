@@ -39,11 +39,8 @@ Version Control        ███████████████████
 ☁️ Deployment & Cloud
 <p align="center"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> </p>
 📊 GitHub Statistics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satya6608&show_icons=true&theme=nightowl&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya6608&layout=compact&theme=nightowl&hide_border=true&langs_count=8" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya6608&theme=nightowl&hide_border=true" /> </div>
-📈 GitHub Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya6608&theme=react-dark&hide_border=true&area=true" width="95%"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Satya6608/Satya6608/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </div>
+<div align="center"> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya6608&theme=nightowl&hide_border=true" /> </div>
+
 🌐 Connect With Me
 <p align="center"> <a href="https://codepen.io/satya6608"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> <a href="https://twitter.com/satya6608"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://linkedin.com/in/satya6608"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.leetcode.com/satya6608"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
 <div align="center">
